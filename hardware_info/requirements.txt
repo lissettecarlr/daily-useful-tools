@@ -1,0 +1,4 @@
+psutil
+py-cpuinfo
+wmi
+tabulate
